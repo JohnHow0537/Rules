@@ -9801,7 +9801,7 @@ DOMAIN,apm3.music.163.com,Netease Music
 DOMAIN,interface.music.163.com,Netease Music
 DOMAIN,interface3.music.163.com,Netease Music
 DOMAIN,music.126.net,Netease Music
-DOMAIN,music.163.com,Netease Music
+DOMAIN,music.163.com,DIRECT
 IP-CIDR,101.71.154.241/32,Netease Music,no-resolve
 IP-CIDR,103.126.92.132/32,Netease Music,no-resolve
 IP-CIDR,103.126.92.133/32,Netease Music,no-resolve
