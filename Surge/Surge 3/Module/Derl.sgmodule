@@ -14,3 +14,6 @@ wifi-access-socks5-port = 6667
 # > qima-inc
 DOMAIN-SUFFIX, qima-inc.com, DIRECT
 DOMAIN-KEYWORD, qima-inc, DIRECT
+
+GEOIP,CN,Domestic
+FINAL,Others,dns-failed
