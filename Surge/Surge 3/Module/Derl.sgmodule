@@ -33,10 +33,3 @@ network-framework = false
 show-error-page-for-reject = true
 tls-provider = default
 use-default-policy-if-wifi-not-primary = false
-
-[Rule]
-# Ads in Video apps
-
-# > qima-inc
-DOMAIN-SUFFIX, qima-inc.com, DIRECT
-DOMAIN-KEYWORD, qima-inc, DIRECT
