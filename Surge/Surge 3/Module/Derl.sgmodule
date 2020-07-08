@@ -1,35 +1,8 @@
-#!name=derl addtion
-#!desc=derl addtion
-#!system=ios
+#!name=MitM All Hostnames
+#!desc=ok
 
 [General]
-bypass-system = true
-loglevel = notify
-replica = false
-
-dns-server = system, 119.29.29.29, 119.28.28.28, 1.2.4.8
-skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, localhost, *.local, *.crashlytics.com
-tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
-tun-included-routes = 192.168.1.12/32
-
-always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
-hijack-dns = 8.8.8.8:53, 8.8.4.4:53
-
 http-listen = 0.0.0.0:6666
 socks5-listen = 0.0.0.0:6667
 wifi-access-http-port = 6666
 wifi-access-socks5-port = 6667
-
-external-controller-access = lhie1@0.0.0.0:6170
-
-internet-test-url = http://www.aliyun.com
-proxy-test-url = http://cp.cloudflare.com/generate_204
-test-timeout = 5
-
-allow-wifi-access = true
-exclude-simple-hostnames = true
-ipv6 = false
-network-framework = false
-show-error-page-for-reject = true
-tls-provider = default
-use-default-policy-if-wifi-not-primary = false
