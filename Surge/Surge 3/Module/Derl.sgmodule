@@ -6,3 +6,10 @@ http-listen = 0.0.0.0:6666
 socks5-listen = 0.0.0.0:6667
 wifi-access-http-port = 6666
 wifi-access-socks5-port = 6667
+
+[Rule]
+# Ads in Video apps
+
+# > qima-inc
+DOMAIN-SUFFIX, qima-inc.com, DIRECT
+DOMAIN-KEYWORD, qima-inc, DIRECT
