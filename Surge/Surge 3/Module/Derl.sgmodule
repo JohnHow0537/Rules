@@ -13,3 +13,7 @@ wifi-access-socks5-port = 6667
 # > qima-inc
 DOMAIN-SUFFIX, qima-inc.com, DIRECT
 DOMAIN-KEYWORD, qima-inc, DIRECT
+
+# > bilibili
+DOMAIN-SUFFIX, bilibili.com, DIRECT
+DOMAIN-KEYWORD, bilibili.com, DIRECT
