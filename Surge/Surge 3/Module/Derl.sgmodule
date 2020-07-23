@@ -17,3 +17,7 @@ DOMAIN-KEYWORD, qima-inc, DIRECT
 # > bilibili
 DOMAIN-SUFFIX, bilibili.com, DIRECT
 DOMAIN-KEYWORD, bilibili.com, DIRECT
+
+# > bugly
+DOMAIN-SUFFIX, bugly.qq.com, DIRECT
+DOMAIN-KEYWORD, bugly.qq.com, DIRECT
